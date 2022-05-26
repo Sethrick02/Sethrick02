@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seth Hertzog
 - 👀 I’m interested in: becoming a good full stack dev, teaching others that are struggling.
-- 🌱 I’m currently learning: CS50, SQL, HTML, Python, C, C#
-- 💞️ I’m looking to collab on: the developement/ discovery of AI technologies and how they can help the world.
+- 🌱 I’m currently learning: Kenzie Academy Software Engineering Program, specializing in backend Java.
+- 💞️ My goal: Becomming a game developer.
 - 📫 How to reach me: Seth.hertzog02@gmail.com  (I check daily :)).
