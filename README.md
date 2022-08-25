@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seth Hertzog
-- 👀 I’m interested in: becoming a good full stack dev, teaching others that are struggling.
-- 🌱 I’m currently learning: Kenzie Academy Software Engineering Program, specializing in backend Java.
+- 👀 I’m interested in: Learning to use applied AI/ ML, teaching others how to break into tech.
+- 🌱 I’m currently learning: Nucamp's Full Software Engineer Bootcamp.
 - 💞️ My goal: Becomming a game developer.
 - 📫 How to reach me: Seth.hertzog02@gmail.com  (I check daily :)).
