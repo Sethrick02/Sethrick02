@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Seth Hertzog
 - 👀 I’m interested in: Learning to use applied AI/ ML, teaching others how to break into tech.
-- 🌱 I’m currently learning: Nucamp's Full Software Engineer Bootcamp.
-- 💞️ My goal: Becomming a game developer.
+- 🌱 Nucamp Software Engineer Bootcamp Grad
+- 🌱 Full Sail University - Computer Science AI Concentration
+- 💞️ My goal: AI/ ML Engineer.
 - 📫 How to reach me: Seth.hertzog02@gmail.com  (I check daily :)).
