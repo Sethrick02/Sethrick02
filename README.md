@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seth Hertzog
-- 👀 I’m interested in: Applied AI/ ML
+- 👀 I’m interested in: The wonders of AI/ ML
 - 🌱 Nucamp Software Engineer Bootcamp Grad
 - 🌱 Full Sail University - Computer Science AI Concentration
 - 💞️ My goal: AI/ ML Engineer.
