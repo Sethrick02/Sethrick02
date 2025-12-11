@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Seth Hertzog
 - 👀 I’m interested in: The wonders of AI/ ML & applying it to BIM.
 - 🌱 Nucamp Software Engineer Bootcamp Grad
-- 🌱 Full Sail University - Computer Science AI Concentration
 - 💞️ My goal: AI/ ML Engineer.
-- 📫 How to reach me: Seth.hertzog02@gmail.com  (I check daily :)).
+- 📫 How to reach me: Seth.hertzog02@gmail.com I check daily :).
